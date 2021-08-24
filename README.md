@@ -1,5 +1,5 @@
 # Generate Analytics Report
-<img src="resources/cover_page.jpg" alt="Analytics Report" width="300"/>
+<img src="resources/cover_page.png" alt="Analytics Report" width="300"/>
 In this project, I've used data from Johns Hopkins' CSSEGI repository to create a report on Covid-19 cases in the USA and in South America.
 <br/>
 <br/>
